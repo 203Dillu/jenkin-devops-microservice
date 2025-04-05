@@ -1,4 +1,4 @@
-#scripted
+# This is a declarative pipeline script for Jenkins
 # Declarative pipeline
 pipeline { 
 	agent any
