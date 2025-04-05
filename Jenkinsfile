@@ -1,8 +1,8 @@
 #scripted
 node {
 	
-		echo "Build"
-		echo "Test"
-		echo "Test"
+	echo "Build"
+	echo "Test"
+	echo "Test"
 	
 }
